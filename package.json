@@ -1,0 +1,23 @@
+{
+  "name": "comp308-w2017-lesson3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "pug": "^2.0.0-beta9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnhullv5/COMP308-w2017-Lesson3.git"
+  },
+  "author": "hao jiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnhullv5/COMP308-w2017-Lesson3/issues"
+  },
+  "homepage": "https://github.com/johnhullv5/COMP308-w2017-Lesson3#readme"
+}
