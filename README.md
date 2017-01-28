@@ -2,4 +2,4 @@
 
 ##Welcome to lesson3
 
-use **`npm install `** to install your project dependencies.
+use **`npm install`** to install your project dependencies.
